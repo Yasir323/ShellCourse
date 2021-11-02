@@ -1,0 +1,7 @@
+Variables	Descriptions
+
+$#		The number of arguments supplied to a script.
+
+$0		The filename of the script.
+
+$n		These vaiables correspond to the arguments with whcihc a script
